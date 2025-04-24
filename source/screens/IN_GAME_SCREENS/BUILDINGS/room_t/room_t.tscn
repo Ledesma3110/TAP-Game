@@ -1,8 +1,8 @@
 [gd_scene load_steps=32 format=4 uid="uid://b6hf47nfrsxpf"]
 
-[ext_resource type="Script" uid="uid://uk6vwwvpcuxt" path="res://source/SCREENS/IN_GAME_SCREENS/BUILDINGS/room_t/room_t.gd" id="1_16k1f"]
+[ext_resource type="Script" uid="uid://uk6vwwvpcuxt" path="res://source/screens/IN_GAME_SCREENS/BUILDINGS/room_t/room_t.gd" id="1_16k1f"]
 [ext_resource type="Texture2D" uid="uid://cjcabdtvnowhp" path="res://resources/assets/TILEMAPS/World Tile Map/tilemap_packed.png" id="1_k82n3"]
-[ext_resource type="PackedScene" uid="uid://gh2vjn6t4v8u" path="res://source/SCREENS/IN_GAME_SCREENS/BUILDINGS/door_room/door_room.tscn" id="3_16k1f"]
+[ext_resource type="PackedScene" uid="uid://gh2vjn6t4v8u" path="res://source/screens/IN_GAME_SCREENS/BUILDINGS/door_room/door_room.tscn" id="3_16k1f"]
 [ext_resource type="Texture2D" uid="uid://bug55khhfkt20" path="res://resources/assets/TILEMAPS/Interiors Tile Map/Interiors_Tile_Map.png" id="3_86os0"]
 [ext_resource type="Texture2D" uid="uid://buk1swolglo7d" path="res://resources/assets/TILEMAPS/Interiors Tile Map/Room_Tile_Map.png" id="4_a0dsd"]
 [ext_resource type="Texture2D" uid="uid://chmw8lbwwnes4" path="res://resources/assets/TILEMAPS/Interiors Tile Map/More_Tile_Map.png" id="5_a0dsd"]

@@ -1,9 +1,9 @@
 [gd_scene load_steps=43 format=4 uid="uid://bxclwjgjr20o6"]
 
-[ext_resource type="PackedScene" uid="uid://b6hf47nfrsxpf" path="res://source/SCREENS/IN_GAME_SCREENS/BUILDINGS/room_t/room_t.tscn" id="1_kejch"]
-[ext_resource type="Script" uid="uid://llu8jxmn3ldf" path="res://source/SCREENS/IN_GAME_SCREENS/BUILDINGS/T/building_t/building_t.gd" id="1_wkxav"]
-[ext_resource type="PackedScene" uid="uid://275ibvia1q42" path="res://source/SCREENS/principal_character/prin_character.tscn" id="2_nufxb"]
-[ext_resource type="PackedScene" uid="uid://bg2yd3j1hrut5" path="res://source/SCREENS/ghost/ghost.tscn" id="3_5auq8"]
+[ext_resource type="PackedScene" uid="uid://b6hf47nfrsxpf" path="res://source/screens/IN_GAME_SCREENS/BUILDINGS/room_t/room_t.tscn" id="1_kejch"]
+[ext_resource type="Script" uid="uid://llu8jxmn3ldf" path="res://source/screens/IN_GAME_SCREENS/BUILDINGS/T/building_t/building_t.gd" id="1_wkxav"]
+[ext_resource type="PackedScene" uid="uid://275ibvia1q42" path="res://source/screens/principal_character/prin_character.tscn" id="2_nufxb"]
+[ext_resource type="PackedScene" uid="uid://bg2yd3j1hrut5" path="res://source/screens/ghost/ghost.tscn" id="3_5auq8"]
 [ext_resource type="PackedScene" uid="uid://by2b1crgphhw6" path="res://components/building_camera/building_camera.tscn" id="3_o28ta"]
 [ext_resource type="Texture2D" uid="uid://bug55khhfkt20" path="res://resources/assets/TILEMAPS/Interiors Tile Map/Interiors_Tile_Map.png" id="4_c77t3"]
 [ext_resource type="PackedScene" uid="uid://sbtm2b37won7" path="res://components/accessDoor/access_door.tscn" id="7_pnyb2"]

@@ -1,8 +1,8 @@
 [gd_scene load_steps=35 format=4 uid="uid://bmwi7g8hngx3d"]
 
-[ext_resource type="Script" uid="uid://bf5d4i4dk8fb8" path="res://source/SCREENS/IN_GAME_SCREENS/BUILDINGS/B/building_b.gd" id="1_m3d4e"]
-[ext_resource type="PackedScene" uid="uid://b6hf47nfrsxpf" path="res://source/SCREENS/IN_GAME_SCREENS/BUILDINGS/room_t/room_t.tscn" id="1_ottig"]
-[ext_resource type="PackedScene" uid="uid://275ibvia1q42" path="res://source/SCREENS/principal_character/prin_character.tscn" id="2_xwryt"]
+[ext_resource type="Script" path="res://source/SCREENS/IN_GAME_SCREENS/BUILDINGS/B/building_b.gd" id="1_m3d4e"]
+[ext_resource type="PackedScene" uid="uid://b6hf47nfrsxpf" path="res://source/screens/IN_GAME_SCREENS/BUILDINGS/room_t/room_t.tscn" id="1_ottig"]
+[ext_resource type="PackedScene" uid="uid://275ibvia1q42" path="res://source/screens/principal_character/prin_character.tscn" id="2_xwryt"]
 [ext_resource type="PackedScene" uid="uid://by2b1crgphhw6" path="res://components/building_camera/building_camera.tscn" id="3_f6sld"]
 [ext_resource type="Texture2D" uid="uid://bug55khhfkt20" path="res://resources/assets/TILEMAPS/Interiors Tile Map/Interiors_Tile_Map.png" id="4_f6sld"]
 [ext_resource type="Texture2D" uid="uid://bxd0roikffstr" path="res://resources/assets/TILEMAPS/Ui Pixel Pack/Tilesheets/Small tiles/Thin outline/tilemap.png" id="5_ughfn"]

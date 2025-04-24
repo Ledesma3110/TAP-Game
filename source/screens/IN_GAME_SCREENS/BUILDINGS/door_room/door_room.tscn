@@ -1,6 +1,6 @@
 [gd_scene load_steps=2 format=3 uid="uid://gh2vjn6t4v8u"]
 
-[ext_resource type="Script" uid="uid://bovr2caf2nom" path="res://source/SCREENS/IN_GAME_SCREENS/BUILDINGS/door_room/door_room.gd" id="1_4ioby"]
+[ext_resource type="Script" uid="uid://bovr2caf2nom" path="res://source/screens/IN_GAME_SCREENS/BUILDINGS/door_room/door_room.gd" id="1_4ioby"]
 
 [node name="door_room" type="Area2D"]
 script = ExtResource("1_4ioby")

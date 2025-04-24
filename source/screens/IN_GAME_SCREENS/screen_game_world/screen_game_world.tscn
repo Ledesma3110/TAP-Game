@@ -1,16 +1,20 @@
 [gd_scene load_steps=17 format=4 uid="uid://c35qe5u2y172e"]
 
-[ext_resource type="Script" uid="uid://bke6m8lbttiyp" path="res://source/SCREENS/IN_GAME_SCREENS/screen_game_world/screen_game_world.gd" id="1_7ixir"]
+[ext_resource type="Script" uid="uid://bke6m8lbttiyp" path="res://source/screens/IN_GAME_SCREENS/screen_game_world/screen_game_world.gd" id="1_7ixir"]
 [ext_resource type="TileSet" uid="uid://ckqpsaw1nd35i" path="res://resources/assets/TILEMAPS/World Tile Map/pant_game_world.tres" id="2_wbc5w"]
 [ext_resource type="Texture2D" uid="uid://cnbuhxvqoq0s3" path="res://resources/assets/TILEMAPS/World Tile Map/CARS TILEMAP.png" id="3_ec45k"]
-[ext_resource type="PackedScene" uid="uid://275ibvia1q42" path="res://source/SCREENS/principal_character/prin_character.tscn" id="3_fpf8y"]
-[ext_resource type="PackedScene" uid="uid://dm44vdfpa0tp8" path="res://source/SCREENS/hud/hud.tscn" id="4_ihve8"]
-[ext_resource type="PackedScene" uid="uid://b4ygg3i7b6p2a" path="res://source/SCREENS/luces/luces.tscn" id="5_4epuo"]
+[ext_resource type="PackedScene" uid="uid://275ibvia1q42" path="res://source/screens/principal_character/prin_character.tscn" id="3_fpf8y"]
+[ext_resource type="PackedScene" uid="uid://dm44vdfpa0tp8" path="res://source/screens/hud/hud.tscn" id="4_ihve8"]
+[ext_resource type="PackedScene" uid="uid://b4ygg3i7b6p2a" path="res://source/screens/luces/luces.tscn" id="5_4epuo"]
 [ext_resource type="PackedScene" uid="uid://bf3ajiodaifpq" path="res://components/itemLamp/item_lamp.tscn" id="7_rlg4x"]
 [ext_resource type="PackedScene" uid="uid://sbtm2b37won7" path="res://components/accessDoor/access_door.tscn" id="9_hhjrm"]
+<<<<<<< HEAD
+[ext_resource type="PackedScene" uid="uid://bg2yd3j1hrut5" path="res://source/screens/ghost/ghost.tscn" id="9_rlg4x"]
+=======
 [ext_resource type="PackedScene" uid="uid://bg2yd3j1hrut5" path="res://source/SCREENS/ghost/ghost.tscn" id="9_rlg4x"]
 [ext_resource type="PackedScene" uid="uid://dvj7vysylj34e" path="res://source/SCREENS/NON_GAME_SCREENS/pause_screen/pause_screen.tscn" id="10_hhjrm"]
 [ext_resource type="AudioStream" uid="uid://dsbt80f528nwr" path="res://resources/assets/MUSIC/Gentle Breeze.ogg" id="11_aeokw"]
+>>>>>>> 52d598c32937b86641169134adaf39a0c798d4fd
 
 [sub_resource type="TileSetAtlasSource" id="TileSetAtlasSource_rlg4x"]
 texture = ExtResource("3_ec45k")
